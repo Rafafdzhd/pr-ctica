@@ -19,10 +19,10 @@ Soy Rafael Fernández Hidalgo, un cordobés de 22 años muy proactivo y con gana
   * _Septiembre 2022 - Febrero 2023_
  
 ## Datos Académicos
-* Actualmente cursando **Administración de Sistemas Informático en Red**
-   * _C.E.S. Ramón y Cajal_
+* **Administración de Sistemas Informático en Red** (actualmente)
+   *  [_C.E.S. Ramón y Cajal_](https://ramonycajal.net/)
 * **Bachillerato de Ciencias Sociales**
-   * _I.E.S. Luis de Góngora_
+   *  [_I.E.S. Luis de Góngora_](https://iesgongora.com/)
 
 ## Habilidades en los distintos trabajos realizados
 
